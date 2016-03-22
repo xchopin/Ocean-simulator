@@ -19,7 +19,7 @@
 ÛÛÛ    (facteur random). A la génération d'icebergs: vérification           ±ÛÛ
 ÛÛÛ    que d'autres Icebergs ne soient pas inclus, sinon on les fusionne    ÛÛÛ
 ÛÛÛ    avec l'Iceberg qui les contient.                                     ²ÛÛ
-ÛÛÛ	   Touches: Z,Q,S,D (déplacement) , autres : ferme le programme	  ÛÛÛ
+ÛÛÛ	   Touches: Z,Q,S,D (déplacement) , autres : ferme le programme	    ÛÛÛ
 ÛÛÛ                                        ßÜÜÜ                             °ßÛ
 ÛÛßÜ                                        ÞÛÛ²°                           Ü²ß
 ÛÛÛÝ         ÜÜß                           ÜÛÛ²°                          Ü þß°
